@@ -52,5 +52,6 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc Changes
+%dir %{perl_vendorlib}/Mock
 %{perl_vendorlib}/Mock/Config.pm
 %{_mandir}/man3/Mock::Config.3pm*

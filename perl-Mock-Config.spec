@@ -4,7 +4,6 @@
 #
 %define		pdir	Mock
 %define		pnam	Config
-%include	/usr/lib/rpm/macros.perl
 Summary:	Mock::Config - temporarily set Config or XSConfig values
 Summary(pl.UTF-8):	Mock::Config - tymczasowe ustawianie wartości Config lub XSConfig
 Name:		perl-Mock-Config
